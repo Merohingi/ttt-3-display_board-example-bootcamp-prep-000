@@ -1,4 +1,4 @@
-Board = ["   ","   ","   "]
+board = ["   ","   ","   "]
 
 def display_board
  
