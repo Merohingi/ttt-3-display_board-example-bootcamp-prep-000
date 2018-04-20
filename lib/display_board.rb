@@ -1,7 +1,6 @@
-board = ["   ","   ","   "]
 
 def display_board
- 
+  board = ["   ","   ","   "]
   line = -----------
   a = board
   b = board
