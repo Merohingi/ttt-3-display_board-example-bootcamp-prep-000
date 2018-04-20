@@ -1,12 +1,12 @@
-
+Board = ["   ","   ","   "]
 
 def display_board
-  board = ["   ","|","   ","|","   "]
+ 
   line = -----------
   a = board
   b = board
   c = board
-  puts a
+  puts a[0] |
   puts line
   puts b
   puts line
