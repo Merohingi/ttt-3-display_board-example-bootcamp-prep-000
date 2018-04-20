@@ -1,4 +1,4 @@
-class Board = ["   ","   ","   "]
+Board = ["   ","   ","   "]
 
 def display_board
  
