@@ -13,6 +13,6 @@ def display_board
   puts "-----------"
   puts " #{c[0]} | #{c[1]} | #{c[2]} "
 end
-end
+
   
 
