@@ -1,11 +1,11 @@
-Board = ["   ","   ","   "]
+class Board = ["   ","   ","   "]
 
 def display_board
  
   line = -----------
-  a = Board
-  b = Board
-  c = Board
+  a = Board.new
+  b = Board.new
+  c = Board.new
   
   puts " #{a[0]} | #{a[1]} | #{a[2]} "
   puts "-----------"
