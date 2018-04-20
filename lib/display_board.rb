@@ -1,7 +1,10 @@
 
 def display_board
   
-  board = Array.new(9, " ")
+  board = def display_board
+  puts ["   " "|" "   " "|" "   ", "-----------", "   " "|" "   " "|" "   ", "-----------", "   " "|" "   " "|" "   "]
+end
+
   line = "-----------"
   
   puts "#{board[0]} | #{board[1]} | #{board[2]}"
