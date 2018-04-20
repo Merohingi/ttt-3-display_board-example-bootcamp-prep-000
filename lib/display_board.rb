@@ -3,9 +3,9 @@ Board = ["   ","   ","   "]
 def display_board
  
   line = -----------
-  a = Board.new
-  b = Board.new
-  c = Board.new
+  a = Board
+  b = Board
+  c = Board
   
   puts " #{a[0]} | #{a[1]} | #{a[2]} "
   puts "-----------"
