@@ -5,11 +5,11 @@ def display_board
       "   ","   ","   "]
   line = -----------
   
-  puts " #{a[0]} | #{a[1]} | #{a[2]} "
-  puts line
-  puts " #{a[4]} | #{a[5]} | #{a[6]} "
-  puts line
-  puts " #{a[7]} | #{a[8]} | #{a[9]} "
+  p " #{a[0]} | #{a[1]} | #{a[2]} "
+  p line
+  p " #{a[4]} | #{a[5]} | #{a[6]} "
+  p line
+  p " #{a[7]} | #{a[8]} | #{a[9]} "
 end
 
   
