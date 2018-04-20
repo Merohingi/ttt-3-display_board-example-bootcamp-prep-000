@@ -1,7 +1,7 @@
 
 
 def display_board
-  Board = ["   ","|","   ","|","   "]
+  board = ["   ","|","   ","|","   "]
   line = -----------
   a = Board.new
   b = Board.new
