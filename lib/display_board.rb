@@ -5,7 +5,7 @@ def display_board
       "   ","   ","   "]
   line = -----------
   
-  p " #{a[0]} | #{a[1]} | #{a[2]} "
+  print " #{a[0]} | #{a[1]} | #{a[2]} "
   p line
   p " #{a[4]} | #{a[5]} | #{a[6]} "
   p line
