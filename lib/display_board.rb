@@ -1,7 +1,7 @@
 
 def display_board
   
-  @board = board || Array.new(9, " ")
+  board = Array.new(9, " ")
   line = "-----------"
   
   puts "#{board[0]} | #{board[1]} | #{board[2]}"
